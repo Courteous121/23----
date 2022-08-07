@@ -1,0 +1,8 @@
+#
+/New Folder
+/devel
+/install
+*.avi
+*.mp4
+*.catkin_workspace
+
