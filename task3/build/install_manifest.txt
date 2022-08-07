@@ -1,0 +1,9 @@
+/root/task3/install/_setup_util.py
+/root/task3/install/env.sh
+/root/task3/install/setup.bash
+/root/task3/install/local_setup.bash
+/root/task3/install/setup.sh
+/root/task3/install/local_setup.sh
+/root/task3/install/setup.zsh
+/root/task3/install/local_setup.zsh
+/root/task3/install/.rosinstall

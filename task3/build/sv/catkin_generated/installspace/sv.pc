@@ -1,0 +1,8 @@
+prefix=/root/task3/install
+
+Name: sv
+Description: Description of sv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
