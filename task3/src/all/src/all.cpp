@@ -94,7 +94,7 @@ switch (shape)
 r.sleep();
 
 
-capture.open("/root/task3/1.avi"); 
+capture.open("build/1.avi"); 
 
 	if (!capture.isOpened()) {
 		printf("could not load video data...\n");
